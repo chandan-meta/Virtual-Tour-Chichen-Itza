@@ -965,6 +965,22 @@ PrefabInstance:
       propertyPath: m_margin.z
       value: -0.058877885
       objectReference: {fileID: 0}
+    - target: {fileID: 7939952420114384226, guid: 167e0fc923db3924194b9b4112d61473, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 7939952420114384226, guid: 167e0fc923db3924194b9b4112d61473, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7939952420114384226, guid: 167e0fc923db3924194b9b4112d61473, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 7939952420114384226, guid: 167e0fc923db3924194b9b4112d61473, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 6106734710500439307, guid: 167e0fc923db3924194b9b4112d61473, type: 3}
@@ -1260,7 +1276,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 6f03d4010e24da641920770ce1ed9452, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.8
+      value: -0.1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 6f03d4010e24da641920770ce1ed9452, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1736,6 +1752,22 @@ PrefabInstance:
       propertyPath: m_fontSize
       value: 0.05
       objectReference: {fileID: 0}
+    - target: {fileID: 7939952420114384226, guid: 167e0fc923db3924194b9b4112d61473, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 7939952420114384226, guid: 167e0fc923db3924194b9b4112d61473, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7939952420114384226, guid: 167e0fc923db3924194b9b4112d61473, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 7939952420114384226, guid: 167e0fc923db3924194b9b4112d61473, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 6106734710500439307, guid: 167e0fc923db3924194b9b4112d61473, type: 3}
@@ -2018,7 +2050,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7939952420114384226, guid: 167e0fc923db3924194b9b4112d61473, type: 3}
       propertyPath: m_fontSize
-      value: 0.05
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7939952420114384226, guid: 167e0fc923db3924194b9b4112d61473, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 7939952420114384226, guid: 167e0fc923db3924194b9b4112d61473, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7939952420114384226, guid: 167e0fc923db3924194b9b4112d61473, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 7939952420114384226, guid: 167e0fc923db3924194b9b4112d61473, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
@@ -2629,6 +2677,10 @@ PrefabInstance:
     - target: {fileID: 3229012808228254544, guid: 77e7c27b2c5525e4aa8cc9f99d654486, type: 3}
       propertyPath: m_RenderPostProcessing
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5518899284880179291, guid: 77e7c27b2c5525e4aa8cc9f99d654486, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7277802327414017196, guid: 77e7c27b2c5525e4aa8cc9f99d654486, type: 3}
       propertyPath: field of view
